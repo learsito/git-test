@@ -15,3 +15,4 @@
 //-git checkout <nombre de la línea de versiones>: para moverte a la línea de versiones deseada.
 //-git add . (git add "punto"): para añadir todos los archivos sin necesidad de ir uno por uno.
 //-git remote add origin <direccion de mi repositorio de github>: Para subir mi proyecto ya en commit a la nube en github. En este caso la dirección sería: https://github.com/learsito/git-test.git
+//-git clone <dirección web del repositorio>: para descargar el repositorio (o proyecto) desde la nube de github.
