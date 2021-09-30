@@ -11,3 +11,4 @@
 //-git reset <archivo>: sería lo contrario de "git add" para sacar un archivo del espacio de trabajo.
 //Para tener archivos locales que queremos que git ignore, hay que crear un archivo llamado ".gitignore" y dentro de ese archivo escribir el nombre de las carpetas y/o archivos que queremos que ignore.
 //-git commit -m "mensaje": para hacer el commit más rápido y evitar tener que entrar al editor de codigo.
+//-git branch y -git branch <nombre>: La primera para mirar el nombre de nuestra linea de versiones que tenemos, y la segunda para crear una línea nueva (o versiones alternativas, como multiversos jaja)
