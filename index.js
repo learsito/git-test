@@ -14,3 +14,4 @@
 //-git branch y -git branch <nombre>: La primera para mirar el nombre de nuestra linea de versiones que tenemos, y la segunda para crear una línea nueva (o versiones alternativas, como multiversos jaja)
 //-git checkout <nombre de la línea de versiones>: para moverte a la línea de versiones deseada.
 //-git add . (git add "punto"): para añadir todos los archivos sin necesidad de ir uno por uno.
+//-git remote add origin <direccion de mi repositorio de github>: Para subir mi proyecto ya en commit a la nube en github.
