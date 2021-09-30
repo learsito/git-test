@@ -1,5 +1,5 @@
 //Comandos básicos git: -git init: para iniciar a utilizar git en el proyecto.
-//-git add <file>: *Para guardar los cambios en un archivo que ya se encuentra en commit* Para poder pasar los archivos del 'working directory' al 'staging area'. De este modo ya podemos empezar a trabajar con git en nuestro código.
+//-git add <file>: Para poder pasar los archivos del 'working directory' al 'staging area'. De este modo ya podemos empezar a trabajar con git en nuestro código.
 //-git status: para ver en qué estado están mis archivos. (si están en el 'working directory', en 'staging area' o en 'repository').
 //-git commit: para pasar desde el 'staging area' al 'repository'. Es para crear la primera versión. (o el primer "punto de control")
 //-git push: es para subirlo a un repositorio remoto, o a un "servidor" para que otros desarrolladores con permiso puedan acceder al código para trabajar con él.
