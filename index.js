@@ -12,3 +12,5 @@
 //Para tener archivos locales que queremos que git ignore, hay que crear un archivo llamado ".gitignore" y dentro de ese archivo escribir el nombre de las carpetas y/o archivos que queremos que ignore.
 //-git commit -m "mensaje": para hacer el commit más rápido y evitar tener que entrar al editor de codigo.
 //-git branch y -git branch <nombre>: La primera para mirar el nombre de nuestra linea de versiones que tenemos, y la segunda para crear una línea nueva (o versiones alternativas, como multiversos jaja)
+//-git checkout <nombre de la línea de versiones>: para moverte a la línea de versiones deseada.
+//-git add . (git add "punto"): para añadir todos los archivos sin necesidad de ir uno por uno.
