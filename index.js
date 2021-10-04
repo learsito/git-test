@@ -16,3 +16,4 @@
 //-git add . (git add "punto"): para añadir todos los archivos sin necesidad de ir uno por uno.
 //-git remote add origin <direccion de mi repositorio de github>: Para subir mi proyecto ya en commit a la nube en github. En este caso la dirección sería: https://github.com/learsito/git-test.git
 //-git clone <dirección web del repositorio>: para descargar el repositorio (o proyecto) desde la nube de github.
+//Para nombre y cuenta: -git config --global user.email "email" || -git config --global user.name "Nombre"
